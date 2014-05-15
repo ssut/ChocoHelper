@@ -1,0 +1,9 @@
+c:\users\ssut\documents\visual studio 2013\Projects\ChocoHelper\ChocoHelper\bin\Debug\ChocoHelper.exe
+c:\users\ssut\documents\visual studio 2013\Projects\ChocoHelper\ChocoHelper\bin\Debug\ChocoHelper.pdb
+c:\users\ssut\documents\visual studio 2013\Projects\ChocoHelper\ChocoHelper\obj\Debug\ChocoHelper.csprojResolveAssemblyReference.cache
+c:\users\ssut\documents\visual studio 2013\Projects\ChocoHelper\ChocoHelper\obj\Debug\ChocoHelper.ChocoHelper.resources
+c:\users\ssut\documents\visual studio 2013\Projects\ChocoHelper\ChocoHelper\obj\Debug\ChocoHelper.Properties.Resources.resources
+c:\users\ssut\documents\visual studio 2013\Projects\ChocoHelper\ChocoHelper\obj\Debug\ChocoHelper.csproj.GenerateResource.Cache
+c:\users\ssut\documents\visual studio 2013\Projects\ChocoHelper\ChocoHelper\obj\Debug\ChocoHelper.exe
+c:\users\ssut\documents\visual studio 2013\Projects\ChocoHelper\ChocoHelper\obj\Debug\ChocoHelper.pdb
+c:\users\ssut\documents\visual studio 2013\Projects\ChocoHelper\ChocoHelper\bin\Debug\ChocoHelper.exe.config
